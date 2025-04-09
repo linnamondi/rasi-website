@@ -1,0 +1,114 @@
+.header{
+    border: 3px;
+    border-color:rgb(121, 230, 121);
+    background-color: rgb(121, 230, 121);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: large;
+
+
+}
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav-bar img{
+max-width: fit-content;
+width: 100%;
+height: 800px;
+display: flex;
+
+}
+
+
+.banner{
+    display: flex;
+    color: white;
+    margin-top: -45%;
+    justify-content: space-between;
+    padding: 60px;
+    font-weight: bold;
+    background-blend-mode: darken;
+
+}
+.banner h1{
+    margin-top: -8.5%;
+}
+.banner-mesaage{
+    justify-content: center;
+    text-align: center;
+
+    color: white;
+
+}
+.banner-mesaage h1{
+    font-weight: bolder;
+    font-size: 400%;
+    
+}
+.banner-mesaage p{
+    font-size: 120%;
+    color: gray;
+    font-weight: bolder;
+
+}
+.click-button{
+    width: 8%;
+    padding: 14px;
+    background-color: grey;
+    border-color: grey;
+
+}
+.heading-two{
+    color: black;
+    margin-top: 13%;
+    text-align: center;
+    font-size: 200%;
+
+}
+.Rasi-screenprinting{
+
+    display: flex;
+    padding-left: 10%;
+    justify-content: space-between;
+
+}
+.rasi-text h6{
+  margin-right: 55%;
+  font-size: 130%;
+  color:rgb(132, 240, 132)
+
+
+  
+}
+.rasi-text h4{
+    font-size: 160%;
+
+}
+.second-banner{
+    margin-right: 10%;
+
+
+}
+.rasi-text 
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+
+
+
