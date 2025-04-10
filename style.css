@@ -181,7 +181,143 @@ text-align: center;
     justify-content: center;
     text-align: center;
 }
-.aditiya
+.aditiya{
+    border: 2px;
+    border-color: white;
+    max-width: fit-content;
+}
+.arivind img{
+    margin-top: 14%;
+    
+}
+.arivind h3{
+    text-align: center;
+    margin-right:30% ;
+    margin-top: -3%;
+    
+}
+
+.arivind p{
+    margin-top: -3%;
+    margin-left: 10%;
+    justify-content: center;
+    text-align: center;
+    margin-right: 34%;
+}
+.arivind{
+    border: 2px;
+    border-color: white;
+    max-width: fit-content;
+}
+.raymond{
+    border: 2px;
+    border-color: white;
+    max-width: fit-content;
+}
+.raymond p{
+    margin-top: -3%;
+    margin-left: 10%;
+    justify-content: center;
+    text-align: center;
+    margin-right: 40%;
+
+}
+.raymond h3{
+    text-align: center;
+    margin-right:30% ;
+    margin-top: -3%;
+    
+}
+.raymond img{
+    margin-top: -6%;
+
+}
+.printing-Quality{
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+}
+.text-quality {
+    margin-right: 0%;
+    font-weight: bolder;
+    margin-left: 18%;
+    
+    
+    
+
+}
+.text-quality img{
+    width: 29%;
+    border-radius: 8%;
+}
+.text-quality p{
+    font-weight: lighter;
+}
+.fashio-icon{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -100px;
+    
+}
+.showcasing-text{
+    justify-content: center;
+    text-align: center;
+}
+.showcasing-text h1{
+    font-size: 300%;
+}
+.showcasing-text p{
+    font-weight: lighter;
+    font-size: 130%;
+}
+.showcasing-images{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    border-radius: 3%;
+    
+
+}
+.new-image img{
+width:87%;
+margin-left: 6.5%;
+height: 600px;
+margin-top: 9px;
+border-radius: 3%;
+
+}
+.map{
+    text-align: center;
+    font-size: 130%;
+}
+.map-direction{
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfO1whlLAaxDWmSmGeYZoKGZMNWpFweHxBcZwkCVL4hueilnm");
+    margin-left: 6%;
+    width: 1600px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+}
+.map-direction{
+    border: 2px;
+    border-color: white;;
+}
+.footer-style{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
