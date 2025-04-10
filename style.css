@@ -72,8 +72,9 @@ display: flex;
 .Rasi-screenprinting{
 
     display: flex;
-    padding-left: 10%;
+    padding-left:10%;
     justify-content: space-between;
+    padding-right: 1%;
 
 }
 .rasi-text h6{
@@ -93,7 +94,101 @@ display: flex;
 
 
 }
-.rasi-text 
+.rasi-text p{
+    font-size: 130%;
+    font-weight: lighter;
+}
+.know-button{
+    background-color: rgb(121, 230, 121);
+    border-radius: 6px;
+    border-color: rgb(121, 230, 121);
+    width: 20%;
+    padding: 15px;
+    margin: 15px;
+    color: white;
+    font-weight: bold;
+
+    
+}
+.Contact-button{
+    
+    border-radius: 8px;
+    border-color: black;
+    width: 20%;
+    padding: 15px;
+    margin: 15px;
+    font-weight: bold;
+
+}
+
+
+.rasi-quality{
+    display: flex;
+    justify-content: space-between;
+
+    border: 2px;
+    border-radius: 1px;
+    background-color: rgb(201, 243, 234);
+    padding: 6px;
+    margin: 6px;
+    text-align: center;
+
+
+}
+.techniques-text{
+    text-align: center;
+    font-size: larger;
+}
+.techniques-text h1{
+    font-size: 250%;
+}
+.tech-images{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 50%;
+
+}
+.Client{
+    text-align: center;
+    
+}
+
+.arrow{
+    width:70px;
+height:70px;
+border-radius: 30px;
+background-color: rgba(127, 255, 212, 0.808);
+margin-top: -20%;
+margin-left: 103%;
+font-size: 50px;
+text-align: center;
+}
+
+.industry{
+    display: flex;
+    justify-content: space-evenly;
+}
+.aditiya h3{
+    margin-top: -8%;
+    margin-left: 10%;
+    justify-content: center;
+    text-align: center;
+
+}
+.aditiya p{
+    margin-top: -8%;
+    margin-left: 10%;
+    justify-content: center;
+    text-align: center;
+}
+.aditiya
+
+
+
+
+
+
+
 
 
 
