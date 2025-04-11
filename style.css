@@ -51,8 +51,9 @@ display: flex;
 }
 .banner-mesaage p{
     font-size: 120%;
-    color: gray;
+    color:white;
     font-weight: bolder;
+    font-weight: lighter;
 
 }
 .click-button{
@@ -290,23 +291,52 @@ border-radius: 3%;
     text-align: center;
     font-size: 130%;
 }
-.map-direction{
-    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfO1whlLAaxDWmSmGeYZoKGZMNWpFweHxBcZwkCVL4hueilnm");
-    margin-left: 6%;
-    width: 1600px;
-    height: 500px;
+
+.logo-rasi{
+margin-top: 2%
+}
+#footer-ending{
+    text-align: center;
+    
+}
+.info-contact{
+    border: none;
+    width: 13%;
+    padding: 2%;
+   position: absolute;
     background-color: white;
+    margin-top: -30%;
+    margin-left: 10%;
+    text-align: left;
+
+
+}
+#map-image{
+    margin-left: 3%;
+    width: 1600px;
+    height: 600px;
     position: relative;
+    
+
+
 }
-.map-direction{
-    border: 2px;
-    border-color: white;;
-}
-.footer-style{
+.style-footer{
+    color:white;
     display: flex;
-    justify-content: space-evenly;
+    border: 1px;
     background-color: black;
-    color: white;
+    font-weight: lighter;
+    justify-content: space-between;
+    padding: 2%;
+    margin: 2%;
+    position: relative;
+    
+}
+#footer-button{
+    text-align: center;
+    margin-top: -2%;
+    
+    
 }
 
 
